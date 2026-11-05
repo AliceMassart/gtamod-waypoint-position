@@ -23,14 +23,12 @@ Afficher les coordonées (x, y, z) du joueur.
 
 ## Utilisation
 
-```
-> start waypoint_position
-```
+Place un repère sur la carte (clic droit en mode carte) : ses coordonnées (x, y) s'affichent en bas à droite de l'écran, mises à jour automatiquement s'il est déplacé.
 
 ## Structure du dossier
 
 ```
-gtamod-change-ped/
+gtamod-waypoint-position/
 ├─ waypoint_position/                      -- dossier du mod
 │  ├─ waypoint_position.lua         -- script principal
 │  └─ fxmanifest.lua

@@ -5,4 +5,4 @@ author 'An awesome dude'
 description 'An awesome, but short, description'
 version '1.0.0'
 
-client_script 'waypoint_position.lua'
+client_script 'client.lua'
